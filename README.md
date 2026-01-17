@@ -1,6 +1,8 @@
 # pwartest
 Wooldridge Test for AR(1) Errors in FE Panel Models Use pwartest (plm) With (In) R Software
 
+https://www.youtube.com/watch?v=XPlAIJ0PvzU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
